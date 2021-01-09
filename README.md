@@ -10,13 +10,17 @@ Specifically, it seeks to analyse the impact of relaxation of covid-19 safety me
 COVID-19 is currently recognized as the world's most viral and severe pandemic spread in the last twenty years, as compared to Ebola 2014, MERS 2012, and SARS 2003. 
 Seeing as we are still in the middle of the outbreak, there is an urgent need to understand the impact of COVID-19 worlwide and in our own backyard.
 
-### Summary of Analysis
+# Summary of Analysis
 
-From the analysis, we can see that the virus has spread to all parts of the world as shown below.
+This analysis seeks to find out the impact of Covid-19 cases in Kenya as a result of relaxing the safety control measures that took place in September, 2020.
+### Worlwide Analysis
+
+But first let us look at the spread of Covid worldwide and more specifically in Africa. According  to WHO, The coronavirus COVID-19 is affecting 218 countries and territories around the world and 2 international conveyances.
+
 ![total cases](https://user-images.githubusercontent.com/73690705/103513931-a66cee00-4e7c-11eb-840d-9ef19d7479d4.PNG)
 
-From the analysis we can see that every continent has recorded many cases of the virus, with Europe and North america haveing the highest number of cases.
-as of December,2020, the continental cases are as follows: 
+From the analysis we can see that every continent has recorded many cases of the virus, with Europe and North america having the highest number of cases.
+As of December,2020, the continental cases are as follows: 
 
 1. Europe        24,342,666
 2. North America	23,665,598
@@ -28,6 +32,13 @@ as of December,2020, the continental cases are as follows:
 From the analysis, we can also see that the virus has made its way to all African countries as shown below by the map and by the bar chart.
 ![African cases](https://user-images.githubusercontent.com/73690705/103513954-b1c01980-4e7c-11eb-9394-8ba93026df54.PNG)
 ![African bar chart](https://user-images.githubusercontent.com/73690705/103513959-b5ec3700-4e7c-11eb-8bae-945f25ef1f6c.PNG)
+
+### The Kenyan Case
+When the first few Covid-19 cases were reported in Kenya, the government moved quickly to implement control measures against the disease. There was a nationwide dusk to dawn curfew announced and put into effect in March, 2020. Additionally, the government closed all schools and directed private and public workers to work from home whenever necessary.
+As a result, the country recorded fewer cases in infections daily compared to other countries in the world. 
+As the months dragged on however, it became apparent that the virus was not slowing down and the government needed to  reopen the economy. 
+In September,2020, the President of Kenya, President Uhuru Kenyatta, relaxed COVID-19 Measures in place by extending the curfew to last from 11PM to 4AM instead of the original 9PM to 5PM. Additionally, he lifted a ban on the sale of alcohol in restaurants and bars which saw these businesses reopen. 
+Let’s see the impact of this decision.
 
 In September, the President of Kenya, President Uhuru Kenyatta, relaxed COVID-19 Measures in place by extending the curfew to last from 11PM to 4AM instead of the original 9PM to 5PM. Additionally, he lifted a ban on the sale of alcohol in restaurants and bars which saw these business reopen. the graph below shows the effect of these decisions:
 ![Kenyan Cases](https://user-images.githubusercontent.com/73690705/103515651-29dc0e80-4e80-11eb-9d3b-4cabdfa3b76c.PNG)
