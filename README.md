@@ -1,4 +1,4 @@
-# Covid-19-Analysis
+# Covid-19-Analysis-The impact of COVID-19 relaxed control measures on Covid-19 cases in Kenya.
 
 ### Introduction
 
